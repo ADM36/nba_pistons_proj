@@ -24,12 +24,19 @@ If a team ranks within the top 5 of all teams that year for a given category, th
 
 ### 2002 – 2003
 Team	Offensive Points	Defensive Points	Total Points
-*New Jersey Nets	4	7	11
+
+*_New Jersey Nets	4	7	11_
+
 Sacramento Kings	11	0	11
-**San Antonio Spurs	2	8	10
+
+***San Antonio Spurs	2	8	10**
+
 Dallas Mavericks	8	1	9
+
 Detroit Pistons	-3	9	6
+
 Los Angeles Lakers	5	-2	3
+
 Philadelphia 76ers	-1	3	2
 
 *_NBA Finals runner-up_
