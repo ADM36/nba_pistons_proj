@@ -77,7 +77,7 @@ _This bar chart displays an inter quartile range (IQR) to show how well teams co
 
 An orange bar denotes that a team is in the ’49 & Up Club,’ having won 49 or more games that season. 
 
-League Defensive Stats By Team (2003-04)
+**League Defensive Stats By Team (2003-04)**
 
  ![](/images/03-04_2.png)
 
@@ -109,7 +109,7 @@ It should also be mentioned that while the Phoenix Sun’s defense was average t
  
 _Teams made, on average, only 3.9 three-point shots a game against San Antonio in the 2004-05 season._
 
-League Offensive Stats By Team (2004-05)
+**League Offensive Stats By Team (2004-05)**
 
 ![](/images/04-05_2.png)
  
@@ -137,7 +137,7 @@ The fact that the Pistons didn’t at least make it to the Finals that year is c
 
 _On average, Detroit only gave up 20.5 foul shots a game during the 2005-06 season. Sacramento had the second-best rating, giving up more than 23 foul shots a game. _
 
-League Offensive Stats By Team (2005-06)
+**League Offensive Stats By Team (2005-06)**
 
 ![](/images/05-06_12.png)
  
@@ -164,7 +164,7 @@ WHAT HAPPENED? Detroit lead the Eastern Conference Finals 2-0 before Daniel "Boo
 
 This wasn’t the first year the Western Conference seemed a lot better than the Eastern Conference, but it felt like it in many ways. The Mavericks, Suns, and eventual NBA Champion Spurs just looked a lot better than any team in the Eastern Conference. The only Eastern Conference team in the top five plus/minus ranking was the Chicago Bulls (5.01), and they didn’t even make it to the conference finals. The Pistons still had the sixth overall rated offensive and seventh overall rated defense, but they just didn’t look as good. They ranked in the top five of the league for points allowed (91.8), had the fewest number of turnovers (12.2) and had the highest number of blocks (5.8), but the roster that year was different. Without Ben Wallace the team picked up Chris Webber and Nazr Mohammad, while also adding Ronald “Flip” Murray. Webber was slow (could still shoot), Mohammad was slow (but tall), and Flip Murray was Flip Murray. The Pistons had a solid six-man rotation in the playoffs, but after that, it wasn’t great. Antonio McDyees and Murray shot under 36 percent in the playoffs, and this team wasn’t defensively prepared to stop young Lebron. 
 
-League Defensive Stats By Team (2006-07)
+**League Defensive Stats By Team (2006-07)**
 
 ![](/images/06-07.png) 
 
@@ -192,7 +192,7 @@ The Pistons seemed more energized this year, possibly understanding the team was
 
 ![](/images/07-08_1.png) 
 
-League Defensive Stats By Team (2007-08)
+**League Defensive Stats By Team (2007-08)**
  
 ![](/images/07-08_2.png)
 
