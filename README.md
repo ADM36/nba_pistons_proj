@@ -71,14 +71,15 @@ WHAT HAPPENED? Los Angeles should NOT have made it to the finals. San Antonio ha
 
 That Piston’s offense was ranked 24 out of 29 teams that season, but they shut down their opponents on defense. They were the best blocking team in the NBA (6.9), the best three-point defending team in the NBA (29%) and allowed the fewest points per game (84.3), tied with San Antonio. One of the keys to the Laker’s offense that season was averaging the highest number of free throws in the league (28.7), but the Pistons played sound man on man defense, averaging in the bottom five in the league for fouls given (20.3). 
 
+ ![](/images/03-04_1.png)
  
-This bar chart displays an inter quartile range (IQR) to show how well teams compare against the league average for points allowed. The red line is the average number of points allowed (93.40). Teams whose bar extends into the red are in the worst 16% of league teams in points allowed, whereas teams whose bar is found in the green highlighted area are in the best 16% of league teams. 
+_This bar chart displays an inter quartile range (IQR) to show how well teams compare against the league average for points allowed. The red line is the average number of points allowed (93.40). Teams whose bar extends into the red are in the worst 16% of league teams in points allowed, whereas teams whose bar is found in the green highlighted area are in the best 16% of league teams._
 
 An orange bar denotes that a team is in the ’49 & Up Club,’ having won 49 or more games that season. 
 
 League Defensive Stats By Team (2003-04)
 
- 
+ ![](/images/03-04_2.png)
 
 
 ### 2004 – 05
@@ -104,11 +105,13 @@ I think these Pistons were even better than the championship team, but this Spur
 
 It should also be mentioned that while the Phoenix Sun’s defense was average to below-average, their offense was face-melting (for 2005). They averaged 110.4 points per game, the best mark in the league. The second-ranked team in points scored, Sacramento, only averaged 103.7 points per game. That’s almost a seven-point game between the top two teams! Phoenix was also the best rebounding team in the league (44.1). Steve Nash, Amare, the Matrix and Joe Johnson were fun to watch, but in this case,  we know what happened when an unstoppable three-point shooting force met an immovable three-point stopping defense. The Suns would also point to Johnson being held out of games one and two of the Western Conference Finals (both Suns losses) thanks to former Piston Jerry Stackhouse. 
 
+![](/images/04-05_1.png)
  
-Teams made, on average, only 3.9 three-point shots a game against San Antonio in the 2004-05 season.
+_Teams made, on average, only 3.9 three-point shots a game against San Antonio in the 2004-05 season._
 
 League Offensive Stats By Team (2004-05)
 
+![](/images/04-05_2.png)
  
 
 ### 2005 – 06
@@ -130,11 +133,13 @@ WHAT HAPPENED? Star power became an issue the Pistons could not fully overcome. 
 
 The fact that the Pistons didn’t at least make it to the Finals that year is criminal. In 2005, they ranked seventeenth in the league in offensive rating. In 2006, they ranked fourth, and they still ranked in the top five in defensive rating. They became a top-five three-point shooting team (39%) while having the best three-point defense in the league (31%). They turned the ball over the least amount of any team in the league (11.4), and gave up the fewest amount of foul-shots (20.5). They went 64-18 in the regular season, and had a solid eight man rotation with Antonio McDyees, Maurice Evans and late acquisition Tony Delk. It still doesn’t sit right with me, but Shaq got his revenge from 2004. 
 
- 
-On average, Detroit only gave up 20.5 foul shots a game during the 2005-06 season. Sacramento had the second-best rating, giving up more than 23 foul shots a game. 
+![](/images/05-06_1.png)
+
+_On average, Detroit only gave up 20.5 foul shots a game during the 2005-06 season. Sacramento had the second-best rating, giving up more than 23 foul shots a game. _
 
 League Offensive Stats By Team (2005-06)
 
+![](/images/05-06_12.png)
  
 
 
@@ -161,9 +166,9 @@ This wasn’t the first year the Western Conference seemed a lot better than the
 
 League Defensive Stats By Team (2006-07)
 
- 
+![](/images/06-07.png) 
 
-The top of the Western Conference overmatched every team in the East in the 2006-07 season, and Dallas and San Antonio’s defenses were the most complete in the league. 
+_The top of the Western Conference overmatched every team in the East in the 2006-07 season, and Dallas and San Antonio’s defenses were the most complete in the league._ 
 
 
 ### 2007 – 08
@@ -185,12 +190,13 @@ WHAT HAPPENED?: After Boston struggled through a 7 game slog against Boobie and 
 
 The Pistons seemed more energized this year, possibly understanding the team was going to be blown up without another championship. They had the sixth best offensive rating and the fourth best defensive rating in the NBA, and two young bench guys in Jason Maxiell and Rodney Stuckey who could give them just enough when the starters needed a breather. They also had two solid older reserves in Lindsey Hunter and Theo Ratliff who shot it well in the playoffs. This team gave up the fewest amount of points in the league (90.1), ranked in the top five for three-point defense, and in the top five for fewest number of rebounds, assists, blocks, and steals allowed. That team also hadn’t the second-best plus/minus in the league (7.4) behind the eventual NBA Champion Celtics (10.3). Yes, that is an impressive margin for the Leprechauns. 
 
- 
+![](/images/07-08_1.png) 
 
 League Defensive Stats By Team (2007-08)
  
+![](/images/07-08_2.png)
 
-Somewhat flipping the script on the Western Conference’s top-heavy defensive dominance the previous season, Boston and Detroit dominated most defensive categories this season. Of course, San Antonio still had a top five defense. 
+_Somewhat flipping the script on the Western Conference’s top-heavy defensive dominance the previous season, Boston and Detroit dominated most defensive categories this season. Of course, San Antonio still had a top five defense._ 
 
 ### 2008 – 09 
 **Team	Offensive Points	Defensive Points	Total Points**
