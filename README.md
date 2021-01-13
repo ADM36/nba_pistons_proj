@@ -30,19 +30,19 @@ If a team ranks within the top 5 of all teams that year for a given category, th
 
 **Team	Offensive Points,	Defensive Points,	Total Points**
 
-*_New Jersey Nets	4	7	11_
+*_New Jersey Nets	4,	7,	11_
 
-Sacramento Kings	11	0	11
+Sacramento Kings	11,	0,	11
 
-***San Antonio Spurs	2	8	10**
+***San Antonio Spurs	2,	8,	10**
 
-Dallas Mavericks	8	1	9
+Dallas Mavericks	8,	1,	9
 
-Detroit Pistons	-3	9	6
+Detroit Pistons	-3,	9,	6
 
-Los Angeles Lakers	5	-2	3
+Los Angeles Lakers	5,	-2,	3
 
-Philadelphia 76ers	-1	3	2
+Philadelphia 76ers	-1,	3,	2
 
 WHAT HAPPENED? You could argue this should have been Sacramento’s title, but the Spurs and the Nets positioned themselves in the title series, and  New Jersey was actually 12-2 in the playoffs before reaching the Finals that season, perhaps confirming the completeness, but not the championship. If we look down this list, we come to the team everyone in Michigan was being force-fed through Fox Sports Detroit. The Pistons went 50-32 that year with head coach Rick Carlisle at the helm. This was before he decided to shave his head but after he instituted tough defense as the mantra. The Piston’s pace was 86.8 that season; good for dead last in the league. As painful as it might have been to watch, that style of play got them to their first Eastern Conference Finals in 12 years. They got swept by Jason Kidd’s Nets, but the league began to notice that Detroit was a defensive force. 
 
@@ -51,13 +51,19 @@ League Defensive Stats By Team (2002-03)
 Yellow cells denote Top 5 in the league. Orange cells denote Best in the league.
 
 ### 2003 - 04
-Team	Offensive Points	Defensive Points	Total Points
-San Antonio Spurs	5	9	14
-**Detroit Pistons	1	12	13
-Indiana Pacers	1	10	11
-*Los Angeles Lakers	6	0	6
-Sacramento Kings	9	-3	6
-Dallas Mavericks	11	-7	4
+**Team	Offensive Points,	Defensive Points,	Total Points**
+
+San Antonio Spurs	5,	9,	14
+
+***Detroit Pistons	1,	12,	13**
+
+Indiana Pacers	1,	10,	11
+
+*_Los Angeles Lakers	6,	0,	6_
+
+Sacramento Kings	9,	-3,	6
+
+Dallas Mavericks	11,	-7,	4
 
 WHAT HAPPENED? Los Angeles should NOT have made it to the finals. San Antonio had the better all-around team, but Kobe plus Shaq and some Derek Fisher magic spoiled a return trip for the Spurs. Detroit winning that matchup was the correct outcome according to the completeness confirmation. Tayshaun Prince hounded Kobe Bryant, and the injury-riddled Lakers fumbled often and didn't move enough of their offense through a dominant Shaq. 
 
@@ -74,14 +80,21 @@ League Defensive Stats By Team (2003-04)
 
 
 ### 2004 – 05
-Team	Offensive Points	Defensive Points	Total Points
-*Detroit Pistons	3	9	12
-Phoenix Suns	12	-1	11
-**San Antonio Spurs	3	7	10
-Houston Rockets	1	8	9
-Miami Heat	5	3	8
-Dallas Mavericks	8	0	8
-Indiana Pacers	-4	6	2
+**Team	Offensive Points,	Defensive Points,	Total Points**
+
+*_Detroit Pistons	3,	9,	12_
+
+Phoenix Suns	12,	-1,	11
+
+***San Antonio Spurs	3,	7,	10**
+
+Houston Rockets	1,	8,	9
+
+Miami Heat	5,	3,	8
+
+Dallas Mavericks	8,	0,	8
+
+Indiana Pacers	-4,	6,	2
 
 WHAT HAPPENED? Robert Horry hit a 3 in Game 5. Nothing more to say. 
 
@@ -97,13 +110,19 @@ League Offensive Stats By Team (2004-05)
  
 
 ### 2005 – 06
-Team	Offensive Points	Defensive Points	Total Points
-Detroit Pistons	5	12	17
-*Dallas Mavericks	6	6	12
-San Antonio Spurs	1	10	11
-Phoenix Suns	10	-2	8
-**Miami Heat	3	2	5
-Cleveland Cavaliers	1	1	2
+**Team	Offensive Points,	Defensive Points,	Total Points**
+
+Detroit Pistons	5,	12,	17
+
+*_Dallas Mavericks	6,	6,	12_
+
+San Antonio Spurs	1,	10,	11
+
+Phoenix Suns	10,	-2,	8
+
+***Miami Heat	3,	2,	5**
+
+Cleveland Cavaliers	1,	1,	2
 
 WHAT HAPPENED? Star power became an issue the Pistons could not fully overcome. A 21 years-old Lebron James and ... um … 30 years-old Zydrunas Ilgauskas took the Pistons to 7 in the semi-finals. In the conference finals, Miami convincingly handled Detroit in enough games as Dwayne Wade did what Kobe couldn't in 2004 and torched the Pistons defense, while giving Shaq better offensive opportunities. The best part of this series: Ben Wallace's MONSTAR block of Shaq in game 5 of the conference. However, the Pistons could have won it all this year.
 
@@ -118,14 +137,21 @@ League Offensive Stats By Team (2005-06)
 
 
 ### 2006 – 07
-Team	Offensive Points	Defensive Points	Total Points
-Dallas Mavericks	5	12	17
-**San Antonio Spurs	4	11	15
-Chicago Bulls	5	4	9
-Phoenix Suns	10	-1	9
-Detroit Pistons	2	6	8
-*Cleveland Cavaliers	1	6	7
-Miami Heat	-4	2	-2
+**Team	Offensive Points,	Defensive Points,	Total Points**
+
+Dallas Mavericks	5,	12,	17
+
+***San Antonio Spurs	4,	11,	15**
+
+Chicago Bulls	5,	4,	9
+
+Phoenix Suns	10,	-1,	9
+
+Detroit Pistons	2,	6,	8
+
+*_Cleveland Cavaliers	1,	6,	7_
+
+Miami Heat	-4,	2,	-2
 
 WHAT HAPPENED? Detroit lead the Eastern Conference Finals 2-0 before Daniel "Boobie" Gibson played Robin to Lebron James's Batman and won the next four games to welcome James to his first NBA Finals appearance. The Pistons also had a worse overall rating that year, especially on defense, which could be attributed to this being the first year the team was without 4-time Defensive Player of the Year, Ben Wallace. San Antonio went on to sweep the Cavs, so I don't think the Pistons would have fared much better considering the completeness numbers from the Spurs that year. 
 
@@ -139,13 +165,19 @@ The top of the Western Conference overmatched every team in the East in the 2006
 
 
 ### 2007 – 08
-Team	Offensive Points	Defensive Points	Total Points
-Detroit Pistons	3	14	17
-**Boston Celtics	0	10	10
-*Los Angeles Lakers	12	-2	10
-San Antonio Spurs	-2	10	8
-Phoenix Suns	9	-2	7
-Denver Nuggets	10	-8	2
+**Team	Offensive Points,	Defensive Points,	Total Points**
+
+Detroit Pistons	3,	14,	17
+
+***Boston Celtics	0,	10,	10**
+
+*_Los Angeles Lakers	12,	-2,	10_
+
+San Antonio Spurs	-2,	10,	8
+
+Phoenix Suns	9,	-2,	7
+
+Denver Nuggets	10,	-8,	2
 
 WHAT HAPPENED?: After Boston struggled through a 7 game slog against Boobie and Delonte West (I seriously cannot believe the level of talent James had to play with), the men in green had a competitive six game series with the Pistons. In the second season without Ben Wallace (overpaid by Chicago) the Pistons defense was again one of the best in the league, and had better offensive production with Antonio McDyess in the starting lineup. However, star power again seemed to be the Achilles heel of the Pistons, with KG, Paul Pierce, Ray Allen and Rajon Rondo being too much for Detroit to handle. Boston also sported the league’s best defense. And while this may be the biggest stretch of them all … the Pistons could have won it all this year and here’s why: 
 
@@ -159,8 +191,9 @@ League Defensive Stats By Team (2007-08)
 Somewhat flipping the script on the Western Conference’s top-heavy defensive dominance the previous season, Boston and Detroit dominated most defensive categories this season. Of course, San Antonio still had a top five defense. 
 
 ### 2008 – 09 
-Team	Offensive Points	Defensive Points	Total Points
-Detroit Pistons	-6	4	-2
+**Team	Offensive Points	Defensive Points	Total Points**
+
+Detroit Pistons	-6,	4,	-2
 
 Cue the funeral procession. The beginning of the end for the Pistons came on November 3, 2008, when Detroit traded Chauncey Billups and Antonio McDyees to the Denver Nuggets for an aging Allen Iverson. Detroit received a -2 rating  that year (-6 offense and 4 defense), and end up being swept by the Cavs in the first-round of the Eastern Conference playoffs. 
 
