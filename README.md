@@ -48,7 +48,7 @@ WHAT HAPPENED? You could argue this should have been Sacramento’s title, but t
 
 **League Defensive Stats By Team (2002-03)**
 
- /images/02-03.png
+ ![](/images/02-03.png)
  
 _Yellow cells denote Top 5 in the league. Orange cells denote Best in the league._
 
