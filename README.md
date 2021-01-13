@@ -23,7 +23,12 @@ If a team ranks within the top 5 of all teams that year for a given category, th
 ## Through the Seasons
 
 ### 2002 – 2003
-Team	Offensive Points	Defensive Points	Total Points
+
+*_NBA Finals runner-up_
+
+***NBA Finals Champion**
+
+**Team	Offensive Points,	Defensive Points,	Total Points**
 
 *_New Jersey Nets	4	7	11_
 
@@ -38,10 +43,6 @@ Detroit Pistons	-3	9	6
 Los Angeles Lakers	5	-2	3
 
 Philadelphia 76ers	-1	3	2
-
-*_NBA Finals runner-up_
-
-***NBA Finals Champion**
 
 WHAT HAPPENED? You could argue this should have been Sacramento’s title, but the Spurs and the Nets positioned themselves in the title series, and  New Jersey was actually 12-2 in the playoffs before reaching the Finals that season, perhaps confirming the completeness, but not the championship. If we look down this list, we come to the team everyone in Michigan was being force-fed through Fox Sports Detroit. The Pistons went 50-32 that year with head coach Rick Carlisle at the helm. This was before he decided to shave his head but after he instituted tough defense as the mantra. The Piston’s pace was 86.8 that season; good for dead last in the league. As painful as it might have been to watch, that style of play got them to their first Eastern Conference Finals in 12 years. They got swept by Jason Kidd’s Nets, but the league began to notice that Detroit was a defensive force. 
 
