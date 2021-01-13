@@ -46,9 +46,9 @@ Philadelphia 76ers	-1,	3,	2
 
 WHAT HAPPENED? You could argue this should have been Sacramento’s title, but the Spurs and the Nets positioned themselves in the title series, and  New Jersey was actually 12-2 in the playoffs before reaching the Finals that season, perhaps confirming the completeness, but not the championship. If we look down this list, we come to the team everyone in Michigan was being force-fed through Fox Sports Detroit. The Pistons went 50-32 that year with head coach Rick Carlisle at the helm. This was before he decided to shave his head but after he instituted tough defense as the mantra. The Piston’s pace was 86.8 that season; good for dead last in the league. As painful as it might have been to watch, that style of play got them to their first Eastern Conference Finals in 12 years. They got swept by Jason Kidd’s Nets, but the league began to notice that Detroit was a defensive force. 
 
-League Defensive Stats By Team (2002-03)
- 
-Yellow cells denote Top 5 in the league. Orange cells denote Best in the league.
+**League Defensive Stats By Team (2002-03)**
+ /images/02-03.png
+_Yellow cells denote Top 5 in the league. Orange cells denote Best in the league._
 
 ### 2003 - 04
 **Team	Offensive Points,	Defensive Points,	Total Points**
